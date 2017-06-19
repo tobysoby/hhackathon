@@ -1,6 +1,6 @@
 # Mining deutsche welle facebook posts
 
-repo for the fjp hackathon 06/12/2017 in Hamburg
+Repository for the fjp hackathon 06/12/2017 in Hamburg
 
 ## Idea
 
@@ -30,8 +30,8 @@ We used Python to get and analyze the data. The data was provided as a .json by 
 
 We decided to publish the complete (original) jupyter notebook developed during the day at the fjp hackathon. It can be found in the notebook folder. Please consider the "hacky" atmosphere during such an event. Additionally, we afterwards provided a full script automating the process. The next step would be to deploy a python server generating the data real time.
 
-notebooks: contains the python notebook done during the hackathon and all graphs apart from the one done in datawrapper
-scripts: contains a working script pulling data out of facebook and transforming it into a .csv readable by datawrapper
+* notebooks: contains the python notebook done during the hackathon and all graphs apart from the one done in datawrapper
+* scripts: contains a working script pulling data out of facebook and transforming it into a .csv readable by datawrapper
 
 ## Outcome
 
