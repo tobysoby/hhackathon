@@ -28,7 +28,7 @@ Since we only had limited time, we concentrated on the first three questions. We
 
 We used Python to get and analyze the data. The data was provided as a .json by the Facebook Graph API. We load the data into pandas dataframe, apply Named Entity Recognition provided by Spacy, built some graphs with seaborn. To build an interactive map representing the places the facebook posts were about we show the ability to use the user (and journalist) -friendly tool datawrapper.
 
-We decided to publish the complete (original) jupyter notebook developed during the day at the fjp hackathon. It can be found in the notebook folder. Please consider the "hacky" atmosphere during such an event. Additionally, we afterwards provided a full script automating the process. The next step would be to deploy a python server generating the data real time.
+We decided to publish the complete (original) jupyter notebook developed during the day at the fjp hackathon. It can be found in the notebook folder. Please consider the "hacky" atmosphere during such an event. Furthermore, you need the access token for the facebook page to reconstruct the work. Additionally, we afterwards provided a script automating the process. The next step would be to deploy a python server generating the data real time.
 
 * notebooks: contains the python notebook done during the hackathon and all graphs apart from the one done in datawrapper
 * scripts: contains a working script pulling data out of facebook and transforming it into a .csv readable by datawrapper
