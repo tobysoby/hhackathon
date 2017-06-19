@@ -41,9 +41,9 @@ The script showed how to pull data out of facebook, transform it, enrich it with
 
 ## Links
 
-Facebook Graph API: https://developers.facebook.com/docs/graph-api
-Python: https://www.python.org/
-Pandas: http://pandas.pydata.org/
-Seaborn: https://seaborn.pydata.org/
-d3.js: https://d3js.org/
-DataWrapper: https://www.datawrapper.de/
+* Facebook Graph API: https://developers.facebook.com/docs/graph-api
+* Python: https://www.python.org/
+* Pandas: http://pandas.pydata.org/
+* Seaborn: https://seaborn.pydata.org/
+* d3.js: https://d3js.org/
+* DataWrapper: https://www.datawrapper.de/
